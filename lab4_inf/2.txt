@@ -1,0 +1,76 @@
+{
+    "root":
+    {
+        "rows": [
+        {
+            "col1": "<xxxxx>Вт</xxxxx>",
+            "col2": "<span>08:20-09:50</span> <div>5</div> <dd class=\"\"rasp_aud_mobile\"\"></dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt>",
+            "col3": "<dl> <dd></dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt> </dl>",
+            "col4": "<dl> <dd>Информатика(Лек): ZOOM</dd><dt><b> Балакшин Павел Валерьевич </b></dt> </dl>",
+            "col5": "Дистанционный"
+		},
+		{
+            "col1": "",
+            "col2": "<span>08:20-09:50</span> <div>2, 4, 6, 8, 10, 12, 14, 16</div> <dd class=\"\"rasp_aud_mobile\"\">2308 (бывш. 306) ауд.</dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>Кронверкский пр., д.49, лит.А</span></dt>",
+            "col3": "<dl> <dd>2308 (бывш. 306) ауд.</dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>Кронверкский пр., д.49, лит.А</span></dt> </dl>",
+            "col4": "<dl> <dd>Информатика(Лаб)</dd>четная неделя<dt><b> Машина Екатерина Алексеевна </b></dt> </dl>",
+            "col5": "Очно - дистанционный"
+		},
+		{
+            "col1": "",
+            "col2": "<span>08:20-09:50</span> <div>3, 7, 9, 11, 13, 15, 17</div> <dd class=\"\"rasp_aud_mobile\"\"></dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>ул.Ломоносова, д.9, лит. М</span></dt>",
+            "col3": "<dl> <dd></dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>ул.Ломоносова, д.9, лит. М</span></dt> </dl>",
+            "col4": "<dl> <dd>Информатика(Лек): Актовый зал</dd><dt><b> Балакшин Павел Валерьевич </b></dt> </dl>",
+            "col5": "Очно - дистанционный"
+		},
+		{
+            "col1": "",
+            "col2": "<span>10:00-11:30</span> <div>5</div> <dd class=\"\"rasp_aud_mobile\"\"></dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt>",
+            "col3": "<dl> <dd></dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt> </dl>",
+            "col4": "<dl> <dd>Основы профессиональной деятельности(Лек): ZOOM</dd><dt><b> Клименков Сергей Викторович </b></dt> </dl>",
+            "col5": "Дистанционный"
+		},
+		{
+            "col1": "",
+            "col2": "<span>10:00-11:30</span> <div>2, 4, 6, 8, 10, 12, 14, 16</div> <dd class=\"\"rasp_aud_mobile\"\">2308 (бывш. 306) ауд.</dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>Кронверкский пр., д.49, лит.А</span></dt>",
+            "col3": "<dl> <dd>2308 (бывш. 306) ауд.</dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>Кронверкский пр., д.49, лит.А</span></dt> </dl>",
+            "col4": "<dl> <dd>Информатика(Лаб)</dd>четная неделя<dt><b> Машина Екатерина Алексеевна </b></dt> </dl>",
+            "col5": "Очно - дистанционный"
+		},
+		{
+            "col1": "",
+            "col2": "<span>10:00-11:30</span> <div>3, 7, 9, 11, 13, 15, 17</div> <dd class=\"\"rasp_aud_mobile\"\"></dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>ул.Ломоносова, д.9, лит. М</span></dt>",
+            "col3": "<dl> <dd></dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>ул.Ломоносова, д.9, лит. М</span></dt> </dl>",
+            "col4": "<dl> <dd>Основы профессиональной деятельности(Лек): Актовый зал</dd><dt><b> Клименков Сергей Викторович </b></dt> </dl>",
+            "col5": "Очно - дистанционный"
+		},
+		{
+            "col1": "",
+            "col2": "<span>11:40-13:10</span> <div>3, 7, 9, 11, 13, 15, 17</div> <dd class=\"\"rasp_aud_mobile\"\">1223 ауд.</dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>ул.Ломоносова, д.9, лит. М</span></dt>",
+            "col3": "<dl> <dd>1223 ауд.</dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>ул.Ломоносова, д.9, лит. М</span></dt> </dl>",
+            "col4": "<dl> <dd>Программирование(Лек)</dd><dt><b> Письмак Алексей Евгеньевич </b></dt> </dl>",
+            "col5": "Очно - дистанционный"
+		},
+		{
+            "col1": "",
+            "col2": "<span>11:40-13:10</span> <div>2, 4, 6, 8, 10, 12, 14, 16</div> <dd class=\"\"rasp_aud_mobile\"\">2308 (бывш. 306) ауд.</dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>Кронверкский пр., д.49, лит.А</span></dt>",
+            "col3": "<dl> <dd>2308 (бывш. 306) ауд.</dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>Кронверкский пр., д.49, лит.А</span></dt> </dl>",
+            "col4": "<dl> <dd>Программирование(Лаб)</dd>четная неделя<dt><b> Чагина Инна Николаевна </b></dt> </dl>",
+            "col5": "Очно - дистанционный"
+		},
+		{
+            "col1": "",
+            "col2": "<span>11:40-13:10</span> <div>5</div> <dd class=\"\"rasp_aud_mobile\"\"></dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt>",
+            "col3": "<dl> <dd></dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span></span></dt> </dl>",
+            "col4": "<dl> <dd>Программирование(Лек): ZOOM</dd><dt><b> Письмак Алексей Евгеньевич </b></dt> </dl>",
+            "col5": "Дистанционный"
+		},
+		{
+            "col1": "",
+            "col2": "<span>13:30-15:00</span> <div>2, 4, 6, 8, 10, 12, 14, 16</div> <dd class=\"\"rasp_aud_mobile\"\">2308 (бывш. 306) ауд.</dd> <dt class=\"\"rasp_corp_mobile\"\"><i class=\"\"fa fa-map-marker\"\"></i><span>Кронверкский пр., д.49, лит.А</span></dt>",
+            "col3": "<dl> <dd>2308 (бывш. 306) ауд.</dd> <dt><i class=\"\"fa fa-map-marker\"\"></i><span>Кронверкский пр., д.49, лит.А</span></dt> </dl>",
+            "col4": "<dl> <dd>Программирование(Лаб)</dd>четная неделя<dt><b> Чагина Инна Николаевна </b></dt> </dl>",
+            "col5": "Очно - дистанционный"
+		}]
+	}
+}
